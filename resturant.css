@@ -50,17 +50,17 @@ background-attachment: fixed;
     font-weight: lighter;
 }
 
-<<<<<<< Updated upstream
 #buttercream2{
     position: relative ;
     bottom: 20%;
     font-family: Sweet;
     font-size: 80px ;
-=======
+    color: white;
+}
+
 #buttercream{
     position: relative;
     font-size: 100px ;
->>>>>>> Stashed changes
     color: white;
     font-weight: lighter;
     letter-spacing: 4px;
